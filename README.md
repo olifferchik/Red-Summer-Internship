@@ -1,4 +1,7 @@
+<div style="text-align: center;">
 # Red-Summer-Internship
+</div>
+
 
 This repository contains my C++ projects for the internship application at CD PROJEKT RED:
 
